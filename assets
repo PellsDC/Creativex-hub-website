@@ -1,0 +1,2 @@
+git add <image_file>
+git commit -m "Added image"
