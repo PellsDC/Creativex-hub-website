@@ -1,4 +1,4 @@
-Re write this code and add the images in the right places : # Creativex-hub-website
+# Creativex-hub-website
 Website for a marketing agency
 <!DOCTYPE html>
 <html lang="en">
