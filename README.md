@@ -76,6 +76,78 @@ Website for a marketing agency
       </div>
     </div>
   </div>
+<section id="portfolio" class="py-5 bg-light">
+  <div class="container">
+    <h2 class="text-center mb-4">Our Portfolio</h2>
+    <p class="text-center mb-5">Check out some of our previous works and client projects.</p>
+    <div class="row">
+      <!-- Target Scores Project -->
+      <div class="col-md-4 mb-4">
+        <div class="card h-100">
+          <img src="images/target-scores.jpg" alt="Target Scores" class="card-img-top">
+          <div class="card-body">
+            <h5 class="card-title">Target Scores</h5>
+            <p class="card-text">A platform for golf enthusiasts to track scores and participate in leagues.</p>
+            <a href="http://www.targetscores.com.au" target="_blank" class="btn btn-primary">
+              Visit Website
+            </a>
+          </div>
+        </div>
+      </div>
+      <!-- Tuttify Project -->
+      <div class="col-md-4 mb-4">
+        <div class="card h-100">
+          <img src="images/tuttify.jpg" alt="Tuttify" class="card-img-top">
+          <div class="card-body">
+            <h5 class="card-title">Tuttify</h5>
+            <p class="card-text">A professional dashboard for managing and analyzing social media performance.</p>
+            <a href="https://tuttify.io" target="_blank" class="btn btn-primary">
+              Visit Website
+            </a>
+          </div>
+        </div>
+      </div>
+      <!-- Facebook Video Project -->
+      <div class="col-md-4 mb-4">
+        <div class="card h-100">
+          <img src="images/facebook-video.jpg" alt="Facebook Video" class="card-img-top">
+          <div class="card-body">
+            <h5 class="card-title">Facebook Video Campaign</h5>
+            <p class="card-text">A successful video campaign that achieved high engagement and reach.</p>
+            <a href="https://fb.watch/m5b9HEda21/" target="_blank" class="btn btn-primary">
+              Watch Video
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row mt-4">
+      <!-- Upwork Profile -->
+      <div class="col-md-6 mb-4">
+        <div class="card h-100">
+          <div class="card-body text-center">
+            <h3 class="card-title">Upwork Portfolio</h3>
+            <p class="card-text">View my completed projects and client reviews on Upwork.</p>
+            <a href="https://www.upwork.com/freelancers/~011abe2450b2c392d0" target="_blank" class="btn btn-primary">
+              Visit My Upwork Profile
+            </a>
+          </div>
+        </div>
+      </div>
+      <!-- Instagram Profile -->
+      <div class="col-md-6 mb-4">
+        <div class="card h-100">
+          <div class="card-body text-center">
+            <h3 class="card-title">Instagram</h3>
+            <p class="card-text">Follow me on Instagram for the latest updates and creative work.</p>
+            <a href="https://www.instagram.com/Creativex_hub" target="_blank" class="btn btn-primary">
+              Visit My Instagram
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
         </div>
       </div>
