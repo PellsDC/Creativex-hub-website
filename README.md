@@ -43,34 +43,34 @@ Website for a marketing agency
     <h2 class="text-center mb-4">Our Services</h2>
     <div class="row">
       <div class="col-md-4 text-center">
-        <img src="images/IMG_1001.jpg" alt="Social Media Marketing" class="img-fluid rounded mb-3">
+        <img src="images/IMG_1001.png" alt="Social Media Marketing" class="img-fluid rounded mb-3">
         <h3>Social Media Marketing</h3>
         <p>We create and manage campaigns to boost your online presence. From Instagram to LinkedIn, we help you engage your audience and grow your brand.</p>
       </div>
       <div class="col-md-4 text-center">
-        <img src="images/IMG_1002.jpg" alt="Content Creation" class="img-fluid rounded mb-3">
+        <img src="images/IMG_1002.png" alt="Content Creation" class="img-fluid rounded mb-3">
         <h3>Content Creation</h3>
         <p>High-quality visuals, videos, and copy tailored to your brand. We ensure your content stands out and resonates with your audience.</p>
       </div>
       <div class="col-md-4 text-center">
-        <img src="images/IMG_1002.jpg" alt="SEO Optimization" class="img-fluid rounded mb-3">
+        <img src="images/IMG_1002.png" alt="SEO Optimization" class="img-fluid rounded mb-3">
         <h3>SEO Optimization</h3>
         <p>Improve your website’s visibility on search engines. We optimize your site to rank higher and drive organic traffic.</p>
       </div>
     </div>
     <div class="row mt-4">
       <div class="col-md-4 text-center">
-        <img src="images/IMG_1002.jpg" alt="Email Marketing" class="img-fluid rounded mb-3">
+        <img src="images/IMG_1002.png" alt="Email Marketing" class="img-fluid rounded mb-3">
         <h3>Email Marketing</h3>
         <p>Design and execute email campaigns that convert. We help you build and nurture your email list for maximum ROI.</p>
       </div>
       <div class="col-md-4 text-center">
-        <img src="images/IMG_1010.PNG" alt="Branding" class="img-fluid rounded mb-3">
+        <img src="images/IMG_1747.jpeg" alt="Branding" class="img-fluid rounded mb-3">
         <h3>Branding</h3>
         <p>Create a strong and memorable brand identity. From logos to brand guidelines, we ensure your brand stands out.</p>
       </div>
       <div class="col-md-4 text-center">
-        <img src="images/IMG_1010.jpg" alt="Analytics" class="img-fluid rounded mb-3">
+        <img src="images/IMG_1747.jpg" alt="Analytics" class="img-fluid rounded mb-3">
         <h3>Analytics & Reporting</h3>
         <p>Track and analyze your marketing performance. We provide actionable insights to optimize your strategies.</p>
       </div>
@@ -84,7 +84,7 @@ Website for a marketing agency
       <!-- Target Scores Project -->
       <div class="col-md-4 mb-4">
         <div class="card h-100">
-          <img src="images/IMG_2296.jpg" alt="Target Scores" class="card-img-top">
+          <img src="images/IMG_1747.jpeg" alt="Target Scores" class="card-img-top">
           <div class="card-body">
             <h5 class="card-title">Target Scores</h5>
             <p class="card-text">A platform for golf enthusiasts to track scores and participate in leagues.</p>
@@ -97,7 +97,7 @@ Website for a marketing agency
       <!-- Tuttify Project -->
       <div class="col-md-4 mb-4">
         <div class="card h-100">
-          <img src="images/1004.jpg" alt="Tuttify" class="card-img-top">
+          <img src="images/IMG_1747.jpeg" alt="Tuttify" class="card-img-top">
           <div class="card-body">
             <h5 class="card-title">Tuttify</h5>
             <p class="card-text">A professional dashboard for managing and analyzing social media performance.</p>
@@ -121,7 +121,8 @@ Website for a marketing agency
         </div>
       </div>
     </div>
-    <div class="row mt-4">
+  </div>
+</section>
       <!-- Upwork Profile -->
       <div class="col-md-6 mb-4">
         <div class="card h-100">
