@@ -65,7 +65,7 @@ Website for a marketing agency
         <p>Design and execute email campaigns that convert. We help you build and nurture your email list for maximum ROI.</p>
       </div>
       <div class="col-md-4 text-center">
-        <img src="images/IMG_1747.jpeg" alt="Branding" class="img-fluid rounded mb-3">
+        <img src="images/IMG_1747.jpg" alt="Branding" class="img-fluid rounded mb-3">
         <h3>Branding</h3>
         <p>Create a strong and memorable brand identity. From logos to brand guidelines, we ensure your brand stands out.</p>
       </div>
@@ -84,7 +84,7 @@ Website for a marketing agency
       <!-- Target Scores Project -->
       <div class="col-md-4 mb-4">
         <div class="card h-100">
-          <img src="images/IMG_1747.jpeg" alt="Target Scores" class="card-img-top">
+          <img src="images/IMG_1747.jpg" alt="Target Scores" class="card-img-top">
           <div class="card-body">
             <h5 class="card-title">Target Scores</h5>
             <p class="card-text">A platform for golf enthusiasts to track scores and participate in leagues.</p>
@@ -97,7 +97,7 @@ Website for a marketing agency
       <!-- Tuttify Project -->
       <div class="col-md-4 mb-4">
         <div class="card h-100">
-          <img src="images/IMG_1747.jpeg" alt="Tuttify" class="card-img-top">
+          <img src="images/IMG_1747.jpg" alt="Tuttify" class="card-img-top">
           <div class="card-body">
             <h5 class="card-title">Tuttify</h5>
             <p class="card-text">A professional dashboard for managing and analyzing social media performance.</p>
